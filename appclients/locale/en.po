@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: langClientes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-16 10:04+0100\n"
+"PO-Revision-Date: 2012-02-16 10:12+0100\n"
+"Last-Translator: juan ramon reyes linares <tfcjuanz@gmail.com>\n"
+"Language-Team: Juanz <tfcjuanz@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: t;e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: menu.php:1
+#: menu.php:2
+msgid "Inicio"
+msgstr "Home"
+
+#: menu.php:3
+msgid "Buscar Cliente"
+msgstr "Find Customer"
+
+#: menu.php:4
+#: buscar.php:50
+#: listado.php:46
+msgid "Buscar"
+msgstr "Search"
+
+#: menu.php:5
+msgid "Agregar Cliente"
+msgstr "Add Customer"
+
+#: menu.php:6
+#: agregar.php:120
+msgid "Agregar"
+msgstr "Add"
+
+#: menu.php:7
+msgid "Listado Clientes"
+msgstr "List Customer"
+
+#: menu.php:8
+msgid "Listar"
+msgstr "List"
+
+#: menu.php:9
+msgid "Cerrar Sistema"
+msgstr "Close System"
+
+#: menu.php:10
+#: buscar.php:110
+#: eliminar.php:80
+msgid "Cerrar"
+msgstr "Close"
+
+#: login.php:11
+#: login.php:38
+msgid "Idioma"
+msgstr "Language"
+
+#: login.php:30
+msgid "Ingrese al Sistema"
+msgstr "Enter the System"
+
+#: login.php:33
+msgid "Usuario"
+msgstr "Username"
+
+#: login.php:36
+msgid "Contrase&ntilde;a"
+msgstr "Password"
+
+#: login.php:38
+#: editar.php:103
+msgid "Defecto"
+msgstr "Default"
+
+#: login.php:38
+msgid "Espa&ntilde;ol"
+msgstr "Spanish"
+
+#: login.php:40
+msgid "Entrar"
+msgstr "Enter"
+
+#: login.php:56
+msgid "Usuario y contrase&ntilde;a son requeridos para entrar"
+msgstr "Username and password are required to enter"
+
+#: login.php:77
+msgid "Contraseño Incorrecta Vuelva a intentarlo"
+msgstr "Wrong password, try again"
+
+#: buscar.php:41
+msgid "Busqueda de Cliente"
+msgstr "Client search"
+
+#: buscar.php:45
+msgid "Nombre Cliente"
+msgstr "Name Customer"
+
+#: buscar.php:83
+msgid "Control de Clientes by Juanz"
+msgstr "Client Control by Juanz"
+
+#: buscar.php:86
+msgid "Cliente Consultado!"
+msgstr "Retrieved Customer!"
+
+#: buscar.php:91
+#: eliminar.php:62
+#: editar.php:116
+#: agregar.php:98
+msgid "Tipo de Identificaci&oacute;n"
+msgstr "Type ID"
+
+#: buscar.php:93
+#: eliminar.php:64
+#: editar.php:118
+#: agregar.php:99
+msgid "Numero de Identificaci&oacute;n"
+msgstr "Number ID"
+
+#: buscar.php:95
+#: eliminar.php:66
+#: editar.php:120
+#: listado.php:54
+#: agregar.php:100
+msgid "Nombre Completo"
+msgstr "Full Name"
+
+#: buscar.php:97
+#: eliminar.php:68
+#: editar.php:122
+#: agregar.php:101
+msgid "Fecha de Nacimiento"
+msgstr "Date of Birth"
+
+#: buscar.php:99
+#: eliminar.php:70
+#: editar.php:124
+#: listado.php:56
+#: agregar.php:102
+msgid "Sexo"
+msgstr "Sex"
+
+#: buscar.php:101
+#: eliminar.php:72
+#: editar.php:136
+#: listado.php:57
+#: agregar.php:107
+msgid "Pais"
+msgstr "Country"
+
+#: buscar.php:102
+#: eliminar.php:73
+#: editar.php:149
+#: agregar.php:109
+msgid "Departamento/estado"
+msgstr "Department / State"
+
+#: buscar.php:103
+#: eliminar.php:74
+#: listado.php:59
+msgid " Cuidad"
+msgstr "City"
+
+#: buscar.php:106
+#: listado.php:83
+msgid "Modificar Cliente"
+msgstr "Edit Customer"
+
+#: buscar.php:107
+msgid "Editar"
+msgstr "Edit"
+
+#: buscar.php:108
+#: eliminar.php:78
+#: listado.php:85
+msgid "Eliminar Cliente"
+msgstr "Remove Customer"
+
+#: buscar.php:109
+#: eliminar.php:79
+msgid "Eliminar"
+msgstr "Remove"
+
+#: buscar.php:112
+msgid "Para Cerrar Puede presione ESC"
+msgstr "You can press  ESC to Close"
+
+#: eliminar.php:35
+msgid "Esta a punto de eliminar este cliente"
+msgstr "You are about to delete this customer"
+
+#: eliminar.php:93
+msgid "Eliminado con exito!!"
+msgstr "Deleted successfully!"
+
+#: eliminar.php:95
+msgid "Este proceso ya no sera recuperado"
+msgstr "This process will not be recovered"
+
+#: eliminar.php:99
+msgid "No se Pudo Eliminar!!"
+msgstr "Could not delete!"
+
+#: editar.php:55
+msgid "Actualizado Exitosamente!"
+msgstr "Updated Successfully!"
+
+#: editar.php:96
+msgid "Actualizacion de Datos"
+msgstr "Update Data"
+
+#: editar.php:101
+#: agregar.php:84
+msgid "Avatar"
+msgstr "Avatar"
+
+#: editar.php:104
+#: agregar.php:86
+msgid "Dise&ntilde;ador"
+msgstr "Designer"
+
+#: editar.php:105
+#: agregar.php:87
+msgid "Estudiante Chica"
+msgstr "Girl student"
+
+#: editar.php:106
+#: agregar.php:88
+msgid "Estudiante Chico"
+msgstr "Boy Student"
+
+#: editar.php:107
+#: agregar.php:89
+msgid "Se&ntilde;ora"
+msgstr "Mrs."
+
+#: editar.php:108
+#: agregar.php:90
+msgid "Doctora"
+msgstr "Doctor"
+
+#: editar.php:109
+#: agregar.php:91
+msgid "Chica"
+msgstr "Girl"
+
+#: editar.php:110
+#: agregar.php:92
+msgid "Soldado"
+msgstr "Soldier"
+
+#: editar.php:111
+#: agregar.php:93
+msgid "Anonimo"
+msgstr "Anonymous"
+
+#: editar.php:112
+#: agregar.php:94
+msgid "Mujer Policia"
+msgstr "Police Woman"
+
+#: editar.php:113
+#: agregar.php:95
+msgid "Se&ntilde;or"
+msgstr "Mr."
+
+#: editar.php:133
+#: agregar.php:104
+msgid "Masculino"
+msgstr "Male "
+
+#: editar.php:134
+#: agregar.php:105
+msgid "Femenino"
+msgstr "Female"
+
+#: editar.php:164
+#: agregar.php:115
+msgid " Ciudad"
+msgstr "City "
+
+#: editar.php:172
+#: editar.php:173
+msgid "Actualizar"
+msgstr "Update"
+
+#: editar.php:174
+#: editar.php:175
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: listado.php:37
+msgid "Listado de Cliente"
+msgstr "List Customer "
+
+#: listado.php:52
+msgid "Tipo de ID"
+msgstr "Type ID"
+
+#: listado.php:53
+msgid "Numero ID"
+msgstr "Number ID"
+
+#: listado.php:55
+msgid "Fecha de Nac."
+msgstr "Date of Birth "
+
+#: listado.php:58
+msgid "Depto./estado"
+msgstr "Dep. / State"
+
+#: agregar.php:65
+msgid "Nuevo Cliente Agregado"
+msgstr "Add New Customer "
+
+#: agregar.php:67
+msgid "Ahora puede consultarlo en cualquier momento!"
+msgstr "Now you can consult it at any time!"
+
+#: agregar.php:78
+msgid "Ingreso de Nuevo Cliente"
+msgstr "Entry of  New Customer"
+
+#: agregar.php:104
+msgid " Masculino"
+msgstr "Male"
+
+#: agregar.php:121
+msgid "Agregar Nuevo Cliente"
+msgstr "Add New Customer"
+
+#: index.php:33
+msgid "Modulo Control de Clientes"
+msgstr "Client Control Module "
+
+#: index.php:35
+msgid "Contacto"
+msgstr "Contact"
+
+#: index.php:37
+msgid "Sitio"
+msgstr "Site"
+
+#: index.php:40
+msgid "Destacado"
+msgstr "Prominent"
+
+#: index.php:41
+msgid "En las busquedas, busqueda inteligente de los nombres de los Clientes"
+msgstr "In the searches, intelligent search of names of Customers"
+
+#: index.php:43
+msgid "Edicion y eliminacion de los Clientes, desde el listado y desde la busqueda"
+msgstr "Editing and Deleting Clients from the list and from the search"
+
+#: index.php:45
+msgid "Busqueda en listado, filtrado por todos los campos"
+msgstr "Search in list, filtering all fields"
+
+#: index.php:47
+msgid "Sistema Ingles, Espa&ntilde;ol Automatico"
+msgstr "System English, Spanish, Automatic"
+
+#~ msgid "Agregado Exitosamente!"
+#~ msgstr "Added Successfully!"
+
+#~ msgid "No se pudo actualizar el registro"
+#~ msgstr "Could not update the record"
+
+#~ msgid "Seleccione Nuevamente"
+#~ msgstr "Select Again"
+
+#~ msgid " Selecciona Nuevamente"
+#~ msgstr "Select Again"
+
+#~ msgid " Debe Elegirlos Nuevamente"
+#~ msgstr "Again he must determine"
+
+#, fuzzy
+#~ msgid "N. de Identificaci&oacute;n"
+#~ msgstr "Number ID"
+
+#~ msgid "o presione ESC"
+#~ msgstr "or press ESC"
+
+#~ msgid "Lenguaje Actual"
+#~ msgstr "Current language"
+
+#~ msgid "Welcome!"
+#~ msgstr "¡Bienvenido!"

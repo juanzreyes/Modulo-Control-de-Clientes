@@ -1,0 +1,14 @@
+::::Modulo Control de Clientes::::
+Para usarlo sin problemas.
+-Subir los archivos al servidor, todos los archivos que estan en la carpeta "appclients", que son los del sistema.
+-Crear la base de datos mysql, e importar el archivo llamado "app_clientes.sql".
+-Para hacer las configuraciones, en los archivos del sistema va uno que se llama "config.php" ahi configuraremos
+nuestro servidor, usuario, contraseña y nombre de base de datos.
+
+-Una ves echo esto para accesar al sistema:
+Usuario:admin
+contraseña: admin
+
+
+Contacto: tfcjuanz@gmail.com
+www.portafolioz.esmipc.com
